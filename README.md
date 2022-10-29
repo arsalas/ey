@@ -1,4 +1,4 @@
-# ey
+# Infinite scroll
 
 ## Project setup
 ```
